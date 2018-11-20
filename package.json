@@ -1,0 +1,15 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "Example of Bingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bingo"
+  ],
+  "author": "Margherita <marghe27@live.it>",
+  "license": "MIT",
+  "dependencies": {},
+}
